@@ -104,3 +104,15 @@
 
 
     ![alt text](image-4.png)
+
+
+
+### 구글 배포 전 세팅 끝
+
+    npm run android
+
+    ![alt text](image-5.png)
+
+
+
+    ![alt text](image-6.png)

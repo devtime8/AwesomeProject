@@ -80,8 +80,9 @@ function App(): React.JSX.Element {
 
   return (
 //     <WebView source={{ uri: 'https://reactnative.dev/' }} style={{ flex: 1 }} />
-    <WebView source={{ uri: 'http://192.168.0.28/' }} style={{ flex: 1 }} />
-
+    // <WebView source={{ uri: 'http://192.168.0.28/' }} style={{ flex: 1 }} />
+    <WebView source={{ uri: 'https://jenkins.dev9.store/' }} style={{ flex: 1 }} />
+    
 
   );
 }
