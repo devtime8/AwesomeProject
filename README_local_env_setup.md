@@ -65,6 +65,29 @@
 
     https://github.com/react-native-webview/react-native-webview/blob/HEAD/docs/Getting-Started.md
 
-    $ npm install --save react-native-webview
+
+    1. Add react-native-webview to your dependencies
+        $ npm install --save react-native-webview
+
+    2. Link native dependencies
+        react-native link react-native-webview
+
 
 ![img_3.png](img_3.png)
+
+
+
+
+![alt text](image.png)
+
+
+
+
+![alt text](image-1.png)
+
+
+
+
+### my domain
+
+    https://app.netlify.com/teams/sangbinlee/dns/dev9.store
