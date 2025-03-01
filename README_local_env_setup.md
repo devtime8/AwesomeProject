@@ -91,3 +91,16 @@
 ### my domain
 
     https://app.netlify.com/teams/sangbinlee/dns/dev9.store
+
+
+### my ip
+
+    nslookup myip.opendns.com. resolver1.opendns.com
+
+![alt text](image-3.png)
+
+
+    ![alt text](image-2.png)
+
+
+    ![alt text](image-4.png)
