@@ -37,4 +37,4 @@
     Let Metro Bundler run in its own terminal. Open a new terminal inside your React Native project folder. Run the following:
 
     npm run android
-![Image](https://github.com/user-attachments/assets/c747c1ef-269a-4747-b163-bb067f709e4b)
+![Image](https://github.com/user-attachments/assets/fbd43db2-435c-4bd8-88a5-6dbd999beea9)
