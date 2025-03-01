@@ -52,3 +52,9 @@
 
 
 ![Image](https://github.com/user-attachments/assets/8eed71d8-f4e2-41ba-a951-b4fa6af2db79)
+
+
+
+
+### step 5 : git user, email check
+![image](https://github.com/user-attachments/assets/c5155c82-197d-418d-82e9-bb704a7e732b)
