@@ -32,3 +32,17 @@
     Let Metro Bundler run in its own terminal. Open a new terminal inside your React Native project folder. Run the following:
 
     npm run android
+
+
+### Step 4: Modifying your app
+
+    
+    Now that you have successfully run the app, let's modify it.
+    
+    Open App.tsx in your text editor of choice and edit some lines.
+    Press the R key twice or select Reload from the Dev Menu (Ctrl + M) to see your changes!
+
+
+
+
+![Image](https://github.com/user-attachments/assets/8eed71d8-f4e2-41ba-a951-b4fa6af2db79)
