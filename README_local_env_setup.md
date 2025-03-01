@@ -135,3 +135,23 @@
 
 ![](assets/2025-03-01-23-33-27.png)
 
+
+
+### 또 잘되나 이미지 붙여보자
+
+![](assets/2025-03-01-23-34-57.png)
+
+
+
+![Image](https://github.com/user-attachments/assets/010eaf48-76e0-4ebb-983d-e4b6d5755f2f)
+
+
+![Image](https://github.com/user-attachments/assets/9aa7b601-4c1b-4c4a-ac17-be78dbedc195)
+
+
+![Image](https://github.com/user-attachments/assets/3fb592c9-3b14-4cd4-90f0-c5511b398416)
+
+
+![Image](https://github.com/user-attachments/assets/75ad459a-5149-4da3-ac39-75cbda37fb35)
+
+
