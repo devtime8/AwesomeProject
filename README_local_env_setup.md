@@ -12,6 +12,8 @@
         npx @react-native-community/cli@latest init AwesomeProject
 
         ![img.png](img.png)
+![Image](https://github.com/user-attachments/assets/6daff251-350e-4e8e-9747-95ee81193f25)
+
 
 
 ### open project in android studio
@@ -26,9 +28,13 @@
 
         ![img_2.png](img_2.png)
 
+![Image](https://github.com/user-attachments/assets/aa7db11d-555a-4cd6-8dae-42c84a167189)
+
+
 
 ### Step 3: Start your application
 
     Let Metro Bundler run in its own terminal. Open a new terminal inside your React Native project folder. Run the following:
 
     npm run android
+![Image](https://github.com/user-attachments/assets/c747c1ef-269a-4747-b163-bb067f709e4b)
