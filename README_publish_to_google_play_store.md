@@ -332,3 +332,22 @@
 
 
 ![img_54.png](img_54.png)
+
+
+### enableProguardInReleaseBuilds
+    true
+
+
+![img_55.png](img_55.png)
+![img_56.png](img_56.png)
+
+    npx react-native build-android --mode=release
+
+![img_59.png](img_59.png)
+![img_58.png](img_58.png)
+ 
+
+![img_60.png](img_60.png)
+
+
+![img_61.png](img_61.png)
