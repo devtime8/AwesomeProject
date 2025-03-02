@@ -198,3 +198,22 @@
 
 
 ![img_29.png](img_29.png)
+
+
+
+
+### Generating the release AAB
+
+    App Bundle
+
+
+![img_30.png](img_30.png)
+
+
+![img_31.png](img_31.png)
+
+![img_32.png](img_32.png)
+
+    npx react-native build-android --mode=release
+
+![img_33.png](img_33.png)
