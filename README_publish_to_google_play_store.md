@@ -130,4 +130,11 @@
 ![img_14.png](img_14.png)
 
 
-### 
+### 'com.awesomeproject'은(는) 이미 Google Play에 존재하므로 다른 패키지 이름을 사용해야 합니다.
+
+
+
+![img_15.png](img_15.png)
+
+
+
