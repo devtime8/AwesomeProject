@@ -294,3 +294,22 @@
 
 
 ![img_46.png](img_46.png)
+
+
+### 2 버전 코드는 이미 사용되었습니다. 다른 버전 코드를 사용해 보세요.
+
+
+![img_47.png](img_47.png)
+
+    npx react-native build-android --mode=release
+
+
+![img_48.png](img_48.png)
+
+
+![img_50.png](img_50.png)
+
+
+![img_49.png](img_49.png)
+
+
