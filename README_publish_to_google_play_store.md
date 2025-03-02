@@ -217,3 +217,6 @@
     npx react-native build-android --mode=release
 
 ![img_33.png](img_33.png)
+
+
+![img_34.png](img_34.png)
