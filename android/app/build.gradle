@@ -77,7 +77,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.awesomeproject"
+    namespace "com.dev9"
     defaultConfig {
         applicationId "com.dev9"
         minSdkVersion rootProject.ext.minSdkVersion
